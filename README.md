@@ -26,7 +26,7 @@ that parses and runs the commands.
 ## Attributions:
 This project has of course greatly benefited from all the crates it depends on.
 Especially I'd like to thank `regex` and `syntect` for helping me through my, to
-various degrees badly though out, issues.
+various degrees badly thought out, issues.
 
 Then I have also gotten a hand up from [`bat`](https://github.com/sharkdp/bat),
 which I also consider an excellent companion app to this application, via
